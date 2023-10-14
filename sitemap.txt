@@ -1,0 +1,10 @@
+http://example.com/2023/10/14/hello-world/
+http://example.com/2023/07/31/testpic/
+http://example.com/2023/10/14/life/test/
+http://example.com/abandon/demo.html
+http://example.com/
+http://example.com/tags/hello-world/
+http://example.com/tags/test/
+http://example.com/tags/%E6%B5%8B%E8%AF%95/
+http://example.com/categories/hello-world/
+http://example.com/categories/test/
